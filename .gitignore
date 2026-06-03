@@ -1,0 +1,10 @@
+# IDE and System files
+.idea/
+.DS_Store
+
+# Python byte-code
+**/__pycache__/
+*.py[cod]
+
+# Local task databases
+json_files/*.json
